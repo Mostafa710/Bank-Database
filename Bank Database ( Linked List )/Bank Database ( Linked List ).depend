@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1706965161 source:d:\mostafa mamdouh\emdedded systems ( eng. mohamed zaghloul )\c projects\bank database ( linked list )\bank database.c
+	"Bank Database.h"
+
+1706928641 d:\mostafa mamdouh\emdedded systems ( eng. mohamed zaghloul )\c projects\bank database ( linked list )\bank database.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1706957693 source:d:\mostafa mamdouh\emdedded systems ( eng. mohamed zaghloul )\c projects\bank database ( linked list )\main.c
+	"Bank Database.h"
+

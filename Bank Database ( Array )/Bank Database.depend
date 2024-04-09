@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1684015999 source:d:\mostafa mamdouh\bank database\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bank database.h"
+
+1684016110 d:\mostafa mamdouh\bank database\bank database.h
+
+1684016110 source:d:\mostafa mamdouh\bank database\bank database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bank database.h"
+
+1706923085 source:d:\mostafa mamdouh\emdedded systems ( eng. mohamed zaghloul )\c projects\bank database ( array )\bank database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bank database.h"
+
+1684012510 d:\mostafa mamdouh\emdedded systems ( eng. mohamed zaghloul )\c projects\bank database ( array )\bank database.h
+
+1706922781 source:d:\mostafa mamdouh\emdedded systems ( eng. mohamed zaghloul )\c projects\bank database ( array )\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bank database.h"
+
